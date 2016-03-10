@@ -6,7 +6,7 @@
 
 | Name   | Email              | GitHub |
 |--------|--------------------|--------|
-| Person | person@website.com | [@name](https://github.com/name)
+| Mahesa | mahesa.ss@gmail.com | [@name](https://github.com/mahesasunts)
 | Person | person@website.com | [@name](https://github.com/name)
 | Person | person@website.com | [@name](https://github.com/name)
 
