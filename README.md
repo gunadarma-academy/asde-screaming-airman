@@ -9,7 +9,7 @@
 | Mahesa | mahesa.ss@gmail.com | [@mahesasunts](https://github.com/mahesasunts)
 | Anneke | annekeannassia@gmail.com | [@annekeannassia](https://github.com/annekeannassia)
 | Hendry | hendry.gustin@gmail.com | [@hendrygustin](https://github.com/hendrygustin)
-| Person | person@website.com | [@name](https://github.com/name)
+| Person | juniorlie22@gmail.com | [@juniorlie](https://github.com/juniorlie)
 
 --------------------------------------------------
 
