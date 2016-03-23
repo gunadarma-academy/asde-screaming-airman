@@ -14,10 +14,9 @@
 
 ## Kebutuhan fungsional
   Penjelasan proses fungsi adalah suatu bagian yang menyediakan informasi berupa penjelasan secara terinci setiap fungsi yang digunakan untuk menyelesaikan masalah.
-
-	* Fungsi-fungsi yang dimiliki oleh perangkat lunak ini adalah:
-		- Mengelola data seluruh trayek angkot dan mampu menampilkannya ke pengguna.
-		- Mengelola data landmark/lokasi yang dilewati oleh setiap angkot yang ada di kota Bogor agar mampu melakukan prakiraan tarif dan juga menavigasikan pengguna.  
+  * Fungsi-fungsi yang dimiliki oleh perangkat lunak ini adalah:
+   - Mengelola data seluruh trayek angkot dan mampu menampilkannya ke pengguna.
+   - Mengelola data landmark/lokasi yang dilewati oleh setiap angkot yang ada di kota Bogor agar mampu melakukan prakiraan tarif dan juga menavigasikan pengguna.  
 
 ## Perangkat Lunak yang digunakan
   * Perangkat lunak yang digunakan untuk pembuatan aplikasi android Kiri Bang! Adalah:
