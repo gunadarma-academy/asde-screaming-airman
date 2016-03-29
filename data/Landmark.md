@@ -13,13 +13,13 @@
 - Cyrano Cafe - Jl. Surya Kencana : 373 m dari Jl. Juanda 2
 
 ---------------------------------------------------------------------------------------------------------------------------------
-- Taman Kencana - Jl. Taman Kencana : 
+- Taman Kencana - Jl. Taman Kencana : 350 m dari Jl. Padjajaran 
 
 ---------------------------------------------------------------------------------------------------------------------------------
-- Royale Cafe and Bakery - Jl. Siliwangi
+- Royale Cafe and Bakery - Jl. Siliwangi : 1500 m dari Jl. Suryakencana
 
 ---------------------------------------------------------------------------------------------------------------------------------
-- Pizza Hut Pahlawan - Jl. Pahlawan
+- Pizza Hut Pahlawan - Jl. Pahlawan : 113 m dari Jl. Batu Tulis
 
 ---------------------------------------------------------------------------------------------------------------------------------
 - Gumati Cafe & Resto - Jl. Paledang
