@@ -6,10 +6,10 @@
 - Bogor Trade Mall (BTM) - Jl. Juanda 2 (Selatan) : 889 m dari Jl. Kapten Muslihat
 - Museum Zoologi Bogor - Jl. Juanda 2 (Selatan) : 71 m dari Jl.Juanda 1 
 - Istana Bogor - Jl. Juanda 2 (Selatan) : 163 m dari Jl. Kapten Muslihat
-- Kebun Raya Bogor - Jl. Juanda 1, 2, 3
+- Kebun Raya Bogor - Jl. Juanda 1, 2, 3 : 375 m pada Jl. Juanda 2
 
 ---------------------------------------------------------------------------------------------------------------------------------
-- Pasar Bogor (Suryakencana) - Jl. Surya Kencana
+- Pasar Bogor (Suryakencana) - Jl. Surya Kencana : 560 m pada Jl.Suryakencana
 - Cyrano Cafe - Jl. Surya Kencana
 - Taman Kencana - Jl. Surya Kencana
 
