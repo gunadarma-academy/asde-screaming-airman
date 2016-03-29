@@ -22,21 +22,20 @@
 - Pizza Hut Pahlawan - Jl. Pahlawan : 113 m dari Jl. Batu Tulis
 
 ---------------------------------------------------------------------------------------------------------------------------------
-- Gumati Cafe & Resto - Jl. Paledang
-- Peppino House - Jl. Paledang
-- Laladon - Jl. Paledang
+- Gumati Cafe & Resto - Jl. Paledang : 287 m dari Jl. Juanda 1
+- Peppino House - Jl. Paledang : 343 m dari Jl. Juanda 1
 
 ---------------------------------------------------------------------------------------------------------------------------------
-- Bogor Trade World - Jl. Veteran
-- Plaza jembatan merah & Super Indo (Starbucks) - Jl. Veteran
+- Bogor Trade World - Jl. Veteran : 183 m dari Jl. Kapten Muslihat
+- Plaza jembatan merah & Super Indo (Starbucks) - Jl. Veteran : 52 m dari Jl. Kapten Muslihat
 
  ---------------------------------------------------------------------------------------------------------------------------------
-- Lapangan Sempur - Jl. Jalak Harupat
+- Lapangan Sempur - Jl. Jalak Harupat : 396 m dari Jl. Juanda 3
 
 ---------------------------------------------------------------------------------------------------------------------------------
-- McDonalds Lodaya - Jl. Padjajaran / Jl. Lodaya
-- RS PMI - Jl. Padjajaran
-- Botani Square - Jl. Padjajaran
+- McDonalds Lodaya - Jl. Padjajaran / Jl. Lodaya : 364 m dari Jl. Jalak Harupat
+- RS PMI - Jl. Padjajaran : 346 m dari Jl. Jalak Harupat
+- Botani Square - Jl. Padjajaran : 
 - PizzaHut Padjajaran - Jl. Padjajaran
 - Hero Padjajaran Bogor - Jl. Padjajaran
 - Bakso Seuseupan - Jl. Padjajaran / Jl. Ahmad Sobana
