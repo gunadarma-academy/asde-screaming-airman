@@ -35,10 +35,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------
 - McDonalds Lodaya - Jl. Padjajaran / Jl. Lodaya : 364 m dari Jl. Jalak Harupat
 - RS PMI - Jl. Padjajaran : 346 m dari Jl. Jalak Harupat
-- Botani Square - Jl. Padjajaran : 
-- PizzaHut Padjajaran - Jl. Padjajaran
-- Hero Padjajaran Bogor - Jl. Padjajaran
-- Bakso Seuseupan - Jl. Padjajaran / Jl. Ahmad Sobana
+- Botani Square - Jl. Padjajaran : 657 m dari Jl. Jalak Harupat
+- PizzaHut Padjajaran - Jl. Padjajaran : 1410 m dari Jl. Jalak Harupat
+- Hero Padjajaran Bogor - Jl. Padjajaran : 1290 m dari Jl. Jalak Harupat
+- Bakso Seuseupan - Jl. Padjajaran / Jl. Ahmad Sobana : 883 m dari Jl. Salak
 
 -----------------------------------------------------------------------
 (Extra)
