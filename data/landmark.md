@@ -5,7 +5,7 @@
 - McDonalds Djuanda - Jl. Juanda 1 (Barat) : **502** m dari Jl. Kapten Muslihat
 - Bogor Trade Mall (BTM) - Jl. Juanda 2 (Selatan) : **889** m dari Jl. Kapten Muslihat
 - Museum Zoologi Bogor - Jl. Juanda 2 (Selatan) : **71** m dari Jl.Juanda 1 
-- Istana Bogor - Jl. Juanda 2 (Selatan) : **163** m dari Jl. Kapten Muslihat
+- Istana Bogor - Jl. Juanda 1 : **163** m dari Jl. Kapten Muslihat
 - Kebun Raya Bogor - Jl. Juanda 1, 2, 3 : **375** m dari Jl. Juanda 1
 
 ---------------------------------------------------------------------------------------------------------------------------------
