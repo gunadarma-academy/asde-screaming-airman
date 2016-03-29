@@ -5,8 +5,8 @@
 	- Pengguna aplikasi
 
 ### Target user untuk aplikasi Kiri Bang:
-	- Pria dan Wanita
-	- IT skill : terbiasa menggunakan Smartphone
+   * Pria dan Wanita
+   * IT skill : terbiasa menggunakan Smartphone
 
 ## Why :
   * Meski tersedia banyak angkot di Kota Bogor, masih banyak warga atau pengunjung Kota Bogor yang menggunakan kendaraan pribadi, terutama pada hari-hari libur. Banyaknya jumlah kendaraan-kendaraan ini mengakibatkan tingginya volume kendaraan di jalan raya Kota Bogor yang berimbas kemacetan dan juga polusi udara.
