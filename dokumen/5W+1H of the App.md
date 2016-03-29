@@ -12,6 +12,7 @@
   * Meski tersedia banyak angkot di Kota Bogor, masih banyak warga atau pengunjung Kota Bogor yang menggunakan kendaraan pribadi, terutama pada hari-hari libur. Banyaknya jumlah kendaraan-kendaraan ini mengakibatkan tingginya volume kendaraan di jalan raya Kota Bogor yang berimbas kemacetan dan juga polusi udara.
 
 ## How : 
+  * Tools dan software yang kami gunakan dalam mengembangkan aplikasi ini adalah : 
 	- Java Android
 	- UML (use case, activity, dkk)
 	- ERD
