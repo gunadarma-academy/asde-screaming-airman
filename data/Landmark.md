@@ -10,8 +10,10 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------
 - Pasar Bogor (Suryakencana) - Jl. Surya Kencana : 560 m dari Jl.Juanda 2
-- Cyrano Cafe - Jl. Surya Kencana
-- Taman Kencana - Jl. Surya Kencana
+- Cyrano Cafe - Jl. Surya Kencana : 373 m dari Jl. Juanda 2
+
+---------------------------------------------------------------------------------------------------------------------------------
+- Taman Kencana - Jl. Taman Kencana : 
 
 ---------------------------------------------------------------------------------------------------------------------------------
 - Royale Cafe and Bakery - Jl. Siliwangi
