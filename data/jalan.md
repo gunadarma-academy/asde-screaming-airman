@@ -1,20 +1,38 @@
-02
-Jl. Kapten Muslihat (2 arah) - Jl. Ir. H. Djuanda 1 (2 arah) - Jl. Ir. H. Djuanda 2 - Jl. Suryakencana - 
-Jl. Siliwangi - Jl. Lawang Gintung - Jl. Batu Tulis -  Jl. Pahlawan - Jl. R. Saleh S. Bustaman - Jl. Paledang - 
-Jl. Veteran (2 arah) - Jl. Raya Cibungbulang Bogor (2 arah) - Jl. May Jen Ishak Djuarsa (2 arah) -
-Jl. Sindang Barang (2 arah) - Jl. Ibrahim Ajie (2 arah)
+##TRAYEK O2
+**Berangkat**
+Sukasari – Lawang Gintung – Pahlawan – Empang – Juanda – Paledang – Kapten Muslihat – Veteran – Gunung Batu – Sindangbarang 
+– Sindangbarang Pilar – Jl. R1 – Terminal Bubulak
 
-03
-Jl. Kapten Muslihat (2 arah) - Jl. Ir. H. Djuanda 1 (2 arah) - Jl. Jalak Harupat (2 arah) - Jl. Salak - 
-Jl. Raya Padjajaran (2 arah) - Jl. Tol Jagorawi (muter balik) - Jl. Riau - Jl. Bangka - Jl. Otto Iskandardinata - 
-Jl. Veteran (2 arah) - Jl. Raya Cibungbulang Bogor (2 arah) - Jl. May Jen Ishak Djuarsa (2 arah) -
-Jl. Sindang Barang (2 arah) - Jl. Ibrahim Ajie (2 arah)
+**Pulang**
+Terminal Bubulak – Jl. R1 – Sindangbarang Pilar – Sindangbarang – Gunung Batu – Veteran – Perintis Kemerdekaan – Dr. Semeru 
+– Mawar – MA. Salmun – Mayor Oking – Kapten Muslihat – Juanda – Jalak Harupat – Pajajaran – Otista – Surya Kencana – Siliwangi - Sukasari
 
-06
-Jl. Ir. H. Djuanda 1 (2 arah) - Jl. Ir. H. Djuanda 2 (2 arah) -Jl. Ir. H. Djuanda 3 (2 arah) - Jl. Otto Iskandardinata -
-Jl. Raya Padjajaran - Jl. Tol Jagorawi (muter balik) - Jl. Ciheuleut - Jl. Padi - Jl. Riau - Jl. Bangka - Jl. Jalak Harupat
+---------------------------------------------------------------------------------------------------------------------------------------------
 
-10
-Jl. Kapten Muslihat (2 arah) - Jl. Ir. H. Djuanda 1 (2 arah) - Jl. Ir. H. Djuanda 2 - Jl. Suryakencana - 
-Jl. Siliwangi - Jl. Lawang Gintung - Jl. Batu Tulis -  Jl. Pahlawan - Jl. R. Saleh S. Bustaman - Jl. Paledang -
-Jl. Perintis Kemerdekaan - Jl. Mawar - Jl. Merdeka - Jl. Moh. A. Salamun - Jl. Nyi Raja Permas
+##TRAYEK O3
+**Berangkat**
+Baranangsiang – Bangka – Otista – Juanda – Kapten Muslihat – Veteran – Gunung Batu – Sindangbarang – Sindangbarang Pilar – Jl. R1 – Terminal Bubulak
+
+**Pulang**
+Terminal Bubulak – Jl. R1 – Sindangbarang Pilar – Sindangbarang – Gunung Batu – Veteran – Perintis Kemerdekaan – Dr. Semeru – Mawar – Merdeka 
+– MA. Salmun – Mayor Oking – Kapten Muslihat – Dewi Sartika – Gg. Mekah – Gedong Sawah – Juanda – Jalak Harupat – Jl. Salak – Pajajaran – Sambu - Baranangsiang
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+##TRAYEK O6
+**Berangkat**
+Ciheuleut – Pajajaran – Sambu – Jl. Bangka – Jl. Otista – Ramayana
+
+**Pulang**
+Ramayana – Juanda – Jalak Harupat – Pajajaran – Ciheuleut
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+##TRAYEK 10
+
+**Berangkat**
+Bantarkemang – Pajajaran – Siliwangi – Lawang Gintung – Pahlawan – Empang – Juanda – Paledang – Veteran – Perintis Kemerdekaan – Terminal Merdeka
+
+**Pulang**
+Terminal Merdeka – Semeru – Mawar – Merdeka – MA. Salmun – Mayor Oking – Kapten Muslihat – Juanda – Jalak Harupat – Pajajaran – Otista – Surya Kencana 
+– Siliwangi – Pajajaran – Bantar Kemang
