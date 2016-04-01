@@ -1,4 +1,4 @@
-##TRAYEK O2
+##TRAYEK 02
 **Berangkat**
 Sukasari – Lawang Gintung – Pahlawan – Empang – Juanda – Paledang – Kapten Muslihat – Veteran – Gunung Batu – Sindangbarang 
 – Sindangbarang Pilar – Jl. R1 – Terminal Bubulak
@@ -9,7 +9,7 @@ Terminal Bubulak – Jl. R1 – Sindangbarang Pilar – Sindangbarang – Gunung
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-##TRAYEK O3
+##TRAYEK 03
 **Berangkat**
 Baranangsiang – Bangka – Otista – Juanda – Kapten Muslihat – Veteran – Gunung Batu – Sindangbarang – Sindangbarang Pilar – Jl. R1 – Terminal Bubulak
 
@@ -19,7 +19,7 @@ Terminal Bubulak – Jl. R1 – Sindangbarang Pilar – Sindangbarang – Gunung
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-##TRAYEK O6
+##TRAYEK 06
 **Berangkat**
 Ciheuleut – Pajajaran – Sambu – Jl. Bangka – Jl. Otista – Ramayana
 
