@@ -50,7 +50,7 @@
    - Terminal Baranangsiang : **12893** m
    - Kebun Raya Bogor : **14993** m
    - Bogor Trade Mall : **16393** m
-   - Plaza Jembatan Merah : **17993* m
+   - Plaza Jembatan Merah : **17993** m
    - Bogor Trade World : **18103** m 
    - Laladon ???????? : ??????????
 
