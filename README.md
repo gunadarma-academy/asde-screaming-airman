@@ -1,5 +1,7 @@
 # Kiri Bang!
 
+[![Join the chat at https://gitter.im/gunadarma-academy/asde-screaming-airman](https://badges.gitter.im/gunadarma-academy/asde-screaming-airman.svg)](https://gitter.im/gunadarma-academy/asde-screaming-airman?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Kiri Bang! merupakan aplikasi mobile berbasis Android yang memudahkan warga Kota Bogor atau masyarakat yang berkegiatan di Kota Bogor dalam menggunakan sarana transportasi angkot yang terdapat di Kota Bogor. Aplikasi ini memudahkan penggunanya dalam menggunakan angkot di Kota Bogor dengan menampilkan rute angkot yang ada di Kota Bogor
   
 
