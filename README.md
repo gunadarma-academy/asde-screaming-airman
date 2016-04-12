@@ -1,6 +1,6 @@
 # Kiri Bang!
 
-Kiri Bang! merupakan aplikasi mobile berbasis Android yang memudahkan warga Kota Bogor atau masyarakat yang berkegiatan di Kota Bogor dalam menggunakan sarana transportasi angkot yang terdapat di Kota Bogor. Aplikasi ini memudahkan penggunanya dalam menggunakan angkot di Kota Bogor dengan menampilkan rute angkot yang ada di Kota Bogor.
+Kiri Bang! merupakan aplikasi mobile berbasis Android yang memudahkan warga Kota Bogor atau masyarakat yang berkegiatan di Kota Bogor dalam menggunakan sarana transportasi angkot yang terdapat di Kota Bogor. Aplikasi ini memudahkan penggunanya dalam menggunakan angkot di Kota Bogor dengan menampilkan rute angkot yang ada di Kota Bogor
   
 
 ## Team Member
