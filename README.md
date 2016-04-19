@@ -18,13 +18,16 @@ Kiri Bang! merupakan aplikasi mobile berbasis Android yang memudahkan warga Kota
 
 ## User Documentation
 
-[Explanation about the project requirements, analysis, design, architecture, components, interfaces, evaluation, presentation, and other characteristics.]
-
-(who, why, how, what, where, when)
+Cara penggunaan aplikasi Kiri Bang! dapat dilihat pada [User Manual] (https://github.com/gunadarma-academy/asde-screaming-airman/blob/master/dokumen/UserManual-KiriBang.pdf)
 
 ## Technical Documentation
 
-[How to develop, build, and use it.]
+Pada project ini terdapat beberapa dokumentasi teknis :
++ [Requirements] (https://github.com/gunadarma-academy/asde-screaming-airman/blob/master/dokumen/requirements.md)
++ [Software Requirements Specification] (https://github.com/gunadarma-academy/asde-screaming-airman/blob/master/dokumen/SoftwareRequirementsSpecification.pdf)
++ [Master Test Plan]
++ [Scenario Test]
++ [Hasil Test]
 
 --------------------------------------------------
 
