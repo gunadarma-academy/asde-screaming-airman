@@ -31,7 +31,7 @@ Pada project ini terdapat beberapa dokumentasi teknis :
 + [Hasil Test]
 + [Wireframe] (https://github.com/gunadarma-academy/asde-screaming-airman/tree/master/data/wireframe)
 + [Mockup Prototype 1] (https://github.com/gunadarma-academy/asde-screaming-airman/tree/master/dokumen/mockup/prototype-1)
-+ [Mockup Prototype 2] ()
++ [Mockup Prototype 2]
 
 --------------------------------------------------
 
