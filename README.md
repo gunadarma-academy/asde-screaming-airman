@@ -29,6 +29,9 @@ Pada project ini terdapat beberapa dokumentasi teknis :
 + [Master Test Plan] (https://github.com/gunadarma-academy/asde-screaming-airman-test/blob/master/Skenario_Tes/TestPlanDocument.pdf)
 + [Scenario Test] (https://github.com/gunadarma-academy/asde-screaming-airman-test/blob/master/Skenario_Tes/ScenarioTestDocument.pdf)
 + [Hasil Test]
++ [Wireframe] (https://github.com/gunadarma-academy/asde-screaming-airman/tree/master/data/wireframe)
++ [Mockup Prototype 1] (https://github.com/gunadarma-academy/asde-screaming-airman/tree/master/dokumen/mockup/prototype-1)
++ [Mockup Prototype 2] ()
 
 --------------------------------------------------
 
