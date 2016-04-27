@@ -25,6 +25,7 @@ Cara penggunaan aplikasi Kiri Bang! dapat dilihat pada [User Manual] (https://gi
 Pada project ini terdapat beberapa dokumentasi teknis :
 + [Requirements] (https://github.com/gunadarma-academy/asde-screaming-airman/blob/master/dokumen/requirements.md)
 + [Software Requirements Specification] (https://github.com/gunadarma-academy/asde-screaming-airman/blob/master/dokumen/SoftwareRequirementsSpecification.pdf)
++ [Burndown Chart] (https://github.com/gunadarma-academy/asde-screaming-airman/blob/master/dokumen/Burndown.pdf) 
 + [Master Test Plan] (https://github.com/gunadarma-academy/asde-screaming-airman-test/blob/master/Skenario_Tes/TestPlanDocument.pdf)
 + [Scenario Test] (https://github.com/gunadarma-academy/asde-screaming-airman-test/blob/master/Skenario_Tes/ScenarioTestDocument.pdf)
 + [Hasil Test]
