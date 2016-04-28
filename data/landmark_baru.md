@@ -1,15 +1,14 @@
 **02**
   - Stasiun Bogor - Taman Topi Square - Istana Bogor - Lapangan Sempur - RS PMI - Botani Square - Kebun Raya Bogor - 
     Pasar Bogor (Suryakencana) - Cyrano Cafe - Royale Bake n Cakery - Pizza Hut Pahlawan - Super Indo (Starbucks) - 
-    Plaza Jembatan Merah - Bogor Trade Mall - Peppino House - Bogor Trade World - Laladon - Terminal Bubulak
+    Plaza Jembatan Merah - Bogor Trade Mall - Peppino House - Bogor Trade World - Terminal Bubulak
 
 **03**
-  - Stasiun Bogor - Taman Topi Square - Istana Bogor - Lapangan Sempur - RS PMI - Botani Square - Hero Padjajaran - 
-    Terminal Baranangsiang - Kebun Raya Bogor - Bogor Trade Mall - Taman Topi Square - Stasiun Bogor - Plaza Jembatan Merah - 
-    Bogor Trade World - Laladon - Terminal Bubulak
+  - Stasiun Bogor - Taman Topi Square - Istana Bogor - Lapangan Sempur - RS PMI - Botani Square - Terminal Baranangsiang - 
+  Kebun Raya Bogor - Bogor Trade Mall - Taman Topi Square - Stasiun Bogor - Plaza Jembatan Merah - Bogor Trade World - Terminal Bubulak
 
 **06**
-  - Lapangan Sempur - RS PMI - Botani Square - Hero Padjajaran - Terminal Baranangsiang - Kebun Raya Bogor - Bogor Trade Mall - 
+  - Lapangan Sempur - RS PMI - Botani Square - Terminal Baranangsiang - Kebun Raya Bogor - Bogor Trade Mall - 
     Istana Bogor - Ciheuleut (Pakuan)
 
 **10**
@@ -46,19 +45,16 @@
    - Lapangan Sempur : **8843** m
    - RS PMI : **11043** m
    - Botani Square : **11393** m
-   - Hero Padjajaran ????? : ???????????????
    - Terminal Baranangsiang : **12893** m
    - Kebun Raya Bogor : **14993** m
    - Bogor Trade Mall : **16393** m
    - Plaza Jembatan Merah : **17993** m
    - Bogor Trade World : **18103** m 
-   - Laladon ???????? : ??????????
 
 ----------------------------------------------------------------------------------------------------------------------------------------
   
 **Rute Angkot 06**
   * **Starting Point: Jl.Ciheuleut**
-   - Hero Padjajaran ?????? : ?????
    - Terminal Baranangsiang : **1900** m
    - Kebun Raya Bogor : **3000** m
    - Bogor Trade Mall : **3350** m
