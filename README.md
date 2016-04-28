@@ -26,13 +26,12 @@ Pada project ini terdapat beberapa dokumentasi teknis :
 + [Requirements] (https://github.com/gunadarma-academy/asde-screaming-airman/blob/master/dokumen/requirements.md)
 + [Software Requirements Specification] (https://github.com/gunadarma-academy/asde-screaming-airman/blob/master/dokumen/SoftwareRequirementsSpecification.pdf)
 + [Burndown Chart] (https://github.com/gunadarma-academy/asde-screaming-airman/blob/master/dokumen/Burndown.pdf) 
-+ [Master Test Plan] (https://github.com/gunadarma-academy/asde-screaming-airman-test/blob/master/Skenario_Tes/TestPlanDocument.pdf)
-+ [Scenario Test] (https://github.com/gunadarma-academy/asde-screaming-airman-test/blob/master/Skenario_Tes/ScenarioTestDocument.pdf)
-+ [Hasil Test]
++ [Master Test Plan] (https://github.com/gunadarma-academy/asde-screaming-airman-test/tree/master/skenario-tes/PDF%20Version)
++ [Scenario Test and Results] (https://github.com/gunadarma-academy/asde-screaming-airman-test/tree/master/skenario-tes/PDF%20Version/skenario-test-and-result)
 + [UML] (https://github.com/gunadarma-academy/asde-screaming-airman/tree/master/data/UML)
 + [Wireframe] (https://github.com/gunadarma-academy/asde-screaming-airman/tree/master/data/wireframe)
 + [Mockup Prototype 1] (https://github.com/gunadarma-academy/asde-screaming-airman/tree/master/dokumen/mockup/prototype-1)
-+ [Mockup Prototype 2]
++ [Mockup Prototype 2] (https://github.com/gunadarma-academy/asde-screaming-airman/tree/master/dokumen/mockup/prototype-2)
 
 --------------------------------------------------
 
